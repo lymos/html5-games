@@ -1,0 +1,56 @@
+html, body, h2, h4{
+	margin: 0px;
+	padding: 0px;
+}
+
+.btn{
+	width: 60px;
+	height: 28px;
+	border: 1px solid #a6d73d;
+	border-radius: 3px;
+	background-color: #9f79ee;
+	cursor: pointer;
+}
+
+.btn:hover{
+	background-color: #0000ff;
+}
+
+.header{
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	background-color: #4d5e2a;
+	margin-bottom: 20px;
+}
+.dice{
+	width: 600px;
+	height: 280px;
+	margin: 0 auto;
+	border: 1px solid #999;
+	border-radius: 5px;
+}
+
+.dice .tips{
+	width: 600px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+
+.dice .message{
+	width: 600px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: red;
+}
+
+.opertion{
+	width: 600px;
+	height: 100px;
+	margin: 0 auto;
+	padding-top: 28px;
+	text-align: center;
+}
